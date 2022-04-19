@@ -1,4 +1,5 @@
 # point2_with_stereo
+![Screenshot from 2022-04-20 00-37-51](https://user-images.githubusercontent.com/72371743/164055307-5e5a0f55-32da-4ca9-a4f7-00412d02396b.png)
 ## 準備
 必要パッケージ
 ~~~
